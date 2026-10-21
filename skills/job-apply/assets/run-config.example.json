@@ -1,0 +1,15 @@
+{
+  "site": "hh.kz",
+  "account_id": "local-account-alias",
+  "resume_id": "stable-resume-id-from-site",
+  "resume_title": "Название выбранного резюме",
+  "languages": ["ru"],
+  "cover_language": "ru",
+  "timezone": "Asia/Almaty",
+  "max_applications": 10,
+  "allow_without_cover": false,
+  "filters": {
+    "search_query": "Согласованная должность",
+    "observed_controls": []
+  }
+}

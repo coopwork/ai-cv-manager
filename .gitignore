@@ -1,0 +1,17 @@
+# Personal career data and authentication never belong in the public bundle.
+/logs/
+/private/
+/resumes/
+/reports/
+/.auth/
+/.sessions/
+/.agents/skills/
+.env
+.env.*
+!.env.example
+**/storage-state*.json
+**/cookies*.json
+**/cookies*.txt
+**/__pycache__/
+*.py[cod]
+.DS_Store
